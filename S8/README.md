@@ -28,7 +28,7 @@ El objetivo es combinar:
 - Shaders personalizados para efectos visuales
 
 <p align="center">
-  <img src="mapa.png" width="600"/>
+  <img src="rsc/mapa.png" width="600"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@ creaEtichetta(rName, mlon, mlat, 0.1);
 Coordenadas de latitud y longitud se convierten a coordenadas de la escena con Map2Range.
 
 <p align="center">
-  <img src="result.png" width="600"/>
+  <img src="rsc/result.png" width="600"/>
 </p>
 
 --- 
@@ -122,7 +122,7 @@ function animate(time) {
 Esto genera un efecto continuo y dinámico sobre la textura del mapa.
 
 <p align="center">
-  <img src="result.gif" width="600"/>
+  <img src="rsc/result.gif" width="600"/>
 </p>
 
 
