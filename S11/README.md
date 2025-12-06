@@ -127,6 +127,10 @@ obj.position.set(p.x(), p.y(), p.z());
 obj.quaternion.set(q.x(), q.y(), q.z(), q.w());
 ```
 
+
+https://github.com/user-attachments/assets/9fb78d70-179e-4409-b7af-635aedee5967
+
+
 ---
 
 ## Fuentes
